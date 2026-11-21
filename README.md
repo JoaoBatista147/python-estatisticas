@@ -85,21 +85,3 @@ Os gráficos são exibidos em tela após a execução dos cálculos no terminal 
 * **Presença de Outlier:** O boxplot identifica apenas um valor discrepante superior (`1,93 m`, referente ao registro `P18`), enquanto 50% das observações centrais situam-se entre `1,63 m` ($Q_1$) e `1,73 m` ($Q_3$).
 
 ---
-
-## ▶️ Como Executar o Projeto
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
-   ```
-
-2. Instale as dependências necessárias:
-   ```bash
-   pip install pandas matplotlib
-   ```
-
-3. Execute o script principal:
-   ```bash
-   python analise_estatistica.py
-   ```
